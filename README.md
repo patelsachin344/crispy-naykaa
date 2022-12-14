@@ -31,7 +31,7 @@ i am student of Full stack web development batch which is one of the famous cour
 * Gurukiran 
 
 # DEPLOYMENT LINK
-https://dreamy-gumdrop-ca3b70.netlify.app/
+https://nykaa-clone-web.netlify.app/
 
 
 
