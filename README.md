@@ -31,7 +31,7 @@ i am student of Full stack web development batch which is one of the famous cour
 * Gurukiran 
 
 # DEPLOYMENT LINK
-https://nykaa-clone-web.netlify.app/
+https://clone-nykaa.netlify.app/
 
 
 
